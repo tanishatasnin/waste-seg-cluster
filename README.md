@@ -1,4 +1,5 @@
-# WasteSegCluster: AI-Powered Waste Segmentation and Classification ♻️
+# WasteSegCluster: A Clustered Waste Image Dataset with
+Segmentation Annotations for Waste Classification♻️
 
 ## Overview
 WasteSegCluster has presented an end to end computer vision system that has enabled machines to understand waste images in a practical and clear way. The system has been designed to detect waste objects in an image and outline each object precisely through segmentation and classify each item into the correct waste category. By integrating one segmentation workflow with two strong image classification workflows into a single unified pipeline this project has created a coherent approach using the WasteSegCluster dataset making it useful for both learning and real world waste management applications.
